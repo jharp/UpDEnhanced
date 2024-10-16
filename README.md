@@ -3,6 +3,8 @@ An **extension** for use with Fantasy Grounds Unity.
 
 UpDEnhanced is an **extension** that allows players to better control their updates.  Full control is given to the user to select exactly which components they will update.
 
+_Currently only Windows platform has been tested._  Please do not use this on any other platform.
+
 **Quick Overview**
 1.  Download the BasicBepInEx_107.zip file.
 2.  Unzip the file.
