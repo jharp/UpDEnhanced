@@ -6,14 +6,17 @@ UpDEnhanced is an **extension** that allows players to better control their upda
 _Currently only Windows platform has been tested._  Please do not use this on any other platform.
 
 **Quick Overview -- WINDOWS ONLY**
-1.  Ensure that you have a working FG install and have done at least a basic update.
-2.  Download the BasicBepInEx_107.zip file.
-3.  Unzip the file.
+1.  Ensure that you have a working FG install and have done at least a basic update some time in the past.
+2.  On this site, click the BasicBepInEx_107.zip listing.  This will go to the page for this file.
+3.  On the right hand side, there is a icon that has a down arrow into a work basket.  This is the download raw file option for this file.  Click it.
 4.  Determine where your Fantasy Grounds application is installed.
-5.  Open the FGUpdaterEngine folder inside the Fantasy Grounds application folder.
-6.  Copy contents of the unzipped file to the FGUpdaterEngine folder.  Make certain this is the contents of the zip and **not** the base unzip folder.  The contents include a single folder named BepInEx and 3 other files.
-7.  Go up one folder and launch FantasyGroundsUpdater.exe
-8.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
+5.  Open the FGUpdaterEngine folder inside the Fantasy Grounds application folder. **Destination folder**
+6.  Find the downloaded file.
+7.  Unzip the downloaded file.
+8.  Go into the unzipped folder, and traverse down the folders until you find a folder named BepInEx.  You should also find 3 other files at the same level.
+9.  Copy the one folder BepInEx and the 3 other files to the **Destination** folder above.
+10.  Go up one folder from the **Destination** folder and launch FantasyGroundsUpdater.exe
+11.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
 
 **Quick Overview -- OSX/Linux**
 1.  Contact me on discord and if enough people desire this then I will find a way to test it.
