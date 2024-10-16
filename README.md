@@ -1,5 +1,5 @@
 # UpDEnhanced
-An **extension** for use with Fantasy Grounds Unity.  
+A paid **extension** for use with Fantasy Grounds Unity.  
 
 UpDEnhanced is an **extension** that allows players to better control their updates.  Full control is given to the user to select exactly which components they will update.
 
@@ -17,6 +17,7 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 9.  Copy the one folder BepInEx and the 3 other files to the **Destination** folder above.
 10.  Go up one folder from the **Destination** folder and launch FantasyGroundsUpdater.exe
 11.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
+12.  Once you confirm the install is correct, obtain a license at https://forge.fantasygrounds.com/shop/items/944/view
 
 **Quick Overview -- OSX/Linux**
 1.  Contact me on discord and if enough people desire this then I will find a way to test it.
@@ -24,6 +25,8 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 
 
 Please understand that **Extensions == RISK**.  We want users to understand that extensions are code that is added or overrides portions of code in the FGU application.  When the underlying code in FGU changes it can break an extension.  We will continue to update this extension as FGU changes.  
+
+License is available at: https://forge.fantasygrounds.com/shop/items/944/view
 
 Support is available at:
 
