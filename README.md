@@ -15,6 +15,11 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 7.  Go up one folder and launch FantasyGroundsUpdater.exe
 8.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
 
+**Quick Overview -- OSX/Linux**
+1.  Contact me on discord and if enough people desire this then I will find a way to test it.
+
+
+
 Please understand that **Extensions == RISK**.  We want users to understand that extensions are code that is added or overrides portions of code in the FGU application.  When the underlying code in FGU changes it can break an extension.  We will continue to update this extension as FGU changes.  
 
 Support is available at:
