@@ -15,9 +15,10 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 7.  Unzip the downloaded file.
 8.  Go into the unzipped folder, and traverse down the folders until you find a folder named BepInEx.  You should also find 3 other files at the same level.
 9.  Copy the one folder BepInEx and the 3 other files to the **Destination** folder above.
-10.  Go up one folder from the **Destination** folder and launch FantasyGroundsUpdater.exe
-11.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
-12.  Once you confirm the install is correct, obtain a license at https://forge.fantasygrounds.com/shop/items/944/view
+10.  Close any prior opened copies of Fantasy Grounds or Fantasy Grounds Updater.
+11.  Go up one folder from the **Destination** folder and launch FantasyGroundsUpdater.exe
+12.  Determine that the install worked by observing the "Update" button is now "Update...".  **If you do not see "Update..." then the install is incorrect.**
+13.  Once you confirm the install is correct, obtain a license at https://forge.fantasygrounds.com/shop/items/944/view
 
 **Quick Overview -- OSX/Linux**
 1.  Contact me on discord and if enough people desire this then I will find a way to test it.
