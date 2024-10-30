@@ -23,6 +23,11 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 **Quick Overview -- OSX/Linux**
 1.  Contact me on discord and if enough people desire this then I will find a way to test it.
 
+**Update from 1.0.7 to 1.0.8**
+1.  Download the 108 zip file.
+2.  Unpack the 108 zip file.
+3.  Traverse the unpacked file to find the new version of FGUpdaterPlugin.dll
+4.  Place this file in **Destination folder**\BepInEx\plugins    This new file should replace the single file in that directory.
 
 
 Please understand that **Extensions == RISK**.  We want users to understand that extensions are code that is added or overrides portions of code in the FGU application.  When the underlying code in FGU changes it can break an extension.  We will continue to update this extension as FGU changes.  
