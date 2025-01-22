@@ -24,8 +24,8 @@ _Currently only Windows platform has been tested._  Please do not use this on an
 1.  Contact me on discord and if enough people desire this then I will find a way to test it.
 
 **Update from 1.0.7 to 1.0.8/1.0.9/1.0.10**
-1.  Download the 108 or 109 zip file.
-2.  Unpack the 108 or 109 zip file.
+1.  Download the 108 or 109 or 1010 zip file.
+2.  Unpack the 108 or 109 or 1010 zip file.
 3.  Traverse the unpacked file to find the new version of FGUpdaterPlugin.dll
 4.  Place this file in **Destination folder**\BepInEx\plugins    This new file should replace the single file in that directory.
 
